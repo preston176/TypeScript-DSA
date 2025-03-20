@@ -6,6 +6,13 @@
 
 - **Contiguous** means that the elements are stored in memory next to each other.
 
+## Important points about arrays
+
+1. They are fixed size, contiguous memory chunks.
+2. They are zero-indexed.
+3. They are mutable. - you can freely modify its contents
+4. They can store elements of the same type.
+
 ## Getting at specific index
 
 - Arrays are zero-based, meaning the first element is at index 0.
